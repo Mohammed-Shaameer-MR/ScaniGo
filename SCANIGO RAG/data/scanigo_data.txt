@@ -1,0 +1,83 @@
+StudentName: Hemal Ramm S
+StudentID: 12780
+BusNumber: V21
+RouteNumber: R3
+TripType: HomeToCollege
+Action: Board 
+Location: Tondairpet
+Date: 2026-01-05
+Time: 06:50:56
+
+StudentName: Hemal Ramm S
+StudentID: 12780
+BusNumber: V21
+RouteNumber: R3
+TripType: HomeToCollege
+Action: Exit 
+Location: Vel Tech High Tech College
+Date: 2026-01-05
+Time: 07:57:45
+
+StudentName: Hemal Ramm S
+StudentID: 12780
+BusNumber: V21
+RouteNumber: R3
+TripType: CollegeToHome
+Action: Board
+Location: Vel Tech High Tech College
+Date: 2026-01-05
+Time: 15:41:54
+
+StudentName: Hemal Ramm S
+StudentID: 12780
+BusNumber: V21
+RouteNumber: R3
+TripType: CollegeToHome
+Action: Exit 
+Location: Tondairpet
+Date: 2026-01-05
+Time: 17:12:42
+
+StudentName: Karthick S
+StudentID: 12793
+BusNumber: V19
+RouteNumber: R2
+TripType: HomeToCollege
+Action: Board 
+Location: Thirumullaivoyil
+Date: 2026-01-05
+Time: 07:20:46
+
+StudentName: karthick S
+StudentID: 12793
+BusNumber: V19
+RouteNumber: R2
+TripType: HomeToCollege
+Action: Exit 
+Location: Vel Tech High Tech College
+Date: 2026-01-05
+Time: 07:55:55
+
+StudentName: Karthick S
+StudentID: 12793
+BusNumber: V19
+RouteNumber: R2
+TripType: CollegeToHome
+Action: Board
+Location: Vel Tech High Tech College
+Date: 2026-01-05
+Time: 15:40:44
+
+StudentName: Karthick S
+StudentID: 12793
+BusNumber: V19
+RouteNumber: R2
+TripType: CollegeToHome
+Action: Exit 
+Location: Thirumullaivoyil
+Date: 2026-01-05
+Time: 16:30:24
+
+
+
+

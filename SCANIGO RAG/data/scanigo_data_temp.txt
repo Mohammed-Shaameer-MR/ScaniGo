@@ -1,0 +1,13 @@
+#Sample format
+StudentName: <student_name>
+StudentID: <student_id>
+BusNumber: <bus_number>
+RouteNumber: <route_number>
+TripType: <HomeToCollege | CollegeToHome>
+Action: <Board | Exit>
+Location: <location>
+Date: <YYYY-MM-DD>
+Time: <HH:MM:SS>
+
+{Live Variable : on_bus=Boolean}
+
